@@ -46,9 +46,9 @@ I have chosen to duplicate the following layout from the **Canvas** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://im5.ezgif.com/tmp/ezgif-5-1339567ff1.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://im5.ezgif.com/tmp/ezgif-5-1339567ff1.gif' title='Video Demo' width='200px' alt='Video Demo' />
 
-GIF created with **your chosen EzGIF tool
+GIF created with EzGIF
 
 <!-- Recommended tools:
 - [Kap](https://getkap.co/) for macOS
