@@ -46,7 +46,7 @@ I have chosen to duplicate the following layout from the **Canvas** app:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ4MzQxMmRmM2Y4MGI0MmY3MGJkMGU4NzFiNWYwYTFmMGU1N2UyMiZjdD1n/CZbP0um1QgZAgPPlIo/giphy.gif ' title='Video Demo' width='200px' alt='Video Demo' />
+<img src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ4MzQxMmRmM2Y4MGI0MmY3MGJkMGU4NzFiNWYwYTFmMGU1N2UyMiZjdD1n/CZbP0um1QgZAgPPlIo/giphy.gif' title='Video Demo' width='200px' alt='Video Demo' />
 
 GIF created with GIPHY
 
