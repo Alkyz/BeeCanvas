@@ -40,7 +40,7 @@ The following EXTRA features are implemented:
 
 I have chosen to duplicate the following layout from the **Canvas** app:
 
-<img src='https://i.imgur.com/5IEyhnu.png' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src='https://i.imgur.com/5IEyhnu.png' title='Chosen Screenshot' width='100px' alt='Chosen Screenshot' />
 
 ## Video Demo
 
